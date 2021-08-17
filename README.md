@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou o Mignoe!
  <div>
   <a href="https://github.com/Mignoe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mignoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
